@@ -24,7 +24,7 @@ else if (delta=0)
     printf("la seul racine de cette equation est : %d ",X);
 }
 else
-    printf("delta negatife onc n a pas de racine");
+    printf("delta negatife donc n a pas de racine");
 return 0;
 
 }
